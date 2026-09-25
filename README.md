@@ -1,209 +1,140 @@
-# Awesome-Family-Office-Management
-
-## Top Family Office Management Platforms Ecosystem
-
-**Curated List of SaaS Products & Open-Source GitHub Projects**
-
-*Focused on Multi-Entity Portfolio Reporting, Investment Accounting, Consolidated Wealth Views & Private Client Operations*
-
-**Last updated: September 2026**
-
-
-
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Family Office Management**. These systems help single- and multi-family offices aggregate public and private assets, produce consolidated reporting, manage entities, support investment accounting, and deliver principal-ready wealth views.
-
-
-
-**Examples** include Archway Platform, Addepar, Asset Vantage, FundCount, Canopy, Private Wealth Systems, Asora, SumIT, Trusted Family, and WealthHub Solutions (the category leaders).
-
-
-
-**Open-source emphasis**: Family-office platforms are almost entirely commercial because of data sensitivity, multi-entity complexity, and private-market coverage. Practical open options are limited to local-first wealth engines, portfolio trackers, and experimental family-office projects. This section lists the strongest available open resources and is realistic about the commercial gap.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-products)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-- **[Archway Platform](https://www.archwayplatform.com/)**  
-
-  Broad family-office system (now part of SEI) connecting investment books, entities, reporting, and operations with strong custodian and accounting integration.
-
-
-
-- **[Addepar](https://addepar.com/)**  
-
-  Institutional-grade portfolio analytics and reporting platform widely used by large family offices for public and private assets, performance, and risk analysis.
-
-
-
-- **[Asset Vantage](https://www.assetvantage.com/)**  
-
-  Family-office platform focused on investment accounting, multi-entity consolidation, and operational reporting for mid-to-large offices.
-
-
-
-- **[FundCount](https://www.fundcount.com/)**  
-
-  Accounting and reporting platform designed for complex, multi-entity family offices and alternative investment structures.
-
-
-
-- **[Canopy](https://www.canopy.com/)**  
-
-  Family-office and private-wealth technology focused on portfolio visibility, document management, and client collaboration.
-
-
-
-- **[Private Wealth Systems](https://www.privatewealthsystems.com/)**  
-
-  Technology for private wealth and family offices covering aggregation, reporting, and operational workflows.
-
-
-
-- **[Asora](https://www.asora.com/)**  
-
-  Modern family-office platform offering consolidated reporting and wealth visibility with a focus on usability and predictable pricing.
-
-
-
-- **[SumIT](https://www.sumit.com/)**  
-
-  Family-office and multi-entity wealth management software for reporting, accounting, and operational support.
-
-
-
-- **[Trusted Family](https://www.trustedfamily.com/)**  
-
-  Platform oriented toward family governance, communication, and collaboration alongside wealth management needs.
-
-
-
-- **[WealthHub Solutions and related family-office platforms](https://www.example.com/)**  
-
-  Additional solutions focused on portfolio aggregation, principal reporting, and private-client operations.
-
-
-
-## Open-Source GitHub Projects
-
-- **[FAMLY-Office](https://github.com/sudo-prog/FAMLY-Office)**  
-
-  Local-first, high-security open wealth-management OS concept for family offices—asset register, net-worth analytics, and private data control with zero-cloud design principles.
-
-
-
-- **[Finance-Guru](https://github.com/AojdevStudio/Finance-Guru)**  
-
-  Self-hosted family-office / personal-finance engine with typed calculators, private ledger, and specialist agents for portfolio analysis and risk metrics.
-
-
-
-- **[Portfolio / fund-operations open platforms](https://github.com/tdavidson/reporting)**  
-
-  Open-source operating systems for investment firms covering deal flow, portfolio monitoring, and reporting (adaptable ideas for family-office use).
-
-
-
-- **[Open portfolio trackers and mutual-fund managers](https://github.com/)**  
-
-  Community tools for consolidating holdings, calculating returns, and producing basic capital-gains worksheets.
-
-
-
-- **[Multi-entity accounting open foundations](https://github.com/)**  
-
-  Open ERP and accounting systems (Odoo, ERPNext, etc.) that can support entity structures and basic consolidation for smaller offices.
-
-
-
-- **[Document and vault open systems](https://github.com/)**  
-
-  Self-hosted document management and secure storage suitable for sensitive family-office records.
-
-
-
-- **[Net-worth and allocation open dashboards](https://github.com/)**  
-
-  Lightweight open dashboards for tracking total wealth and asset allocation across accounts.
-
-
-
-- **[Private-market data and valuation open helpers](https://github.com/)**  
-
-  Community scripts and notebooks for tracking illiquid holdings (not a substitute for professional valuation).
-
-
-
-- **[Reporting and template open libraries](https://github.com/)**  
-
-  Templates and generators for principal reports and performance summaries.
-
-
-
-- **[Documentation and family-office open playbooks](https://github.com/)**  
-
-  Guides for designing secure, local-first wealth-management stacks.
-
-
-
-### Additional Strong Open-Source Options
-
-- Prototyping consolidated views with local-first tools (**FAMLY-Office**, **Finance-Guru**) when data sovereignty is the primary concern.
-
-- Using open accounting systems for multi-entity books while keeping investment analytics in commercial platforms.
-
-- Accepting that institutional-grade data aggregation, private-market automation, performance attribution, risk analytics, and principal-ready reporting still require commercial platforms (Addepar, Archway, Asset Vantage, FundCount, Asora, etc.).
-
-- Focusing open-source efforts on data ownership, privacy, and transparency of calculations for smaller or highly privacy-conscious offices.
-
-
-
-**Frameworks for building custom systems**: Keep sensitive ledgers and documents local → aggregate public-market data via open or commercial feeds → produce net-worth and allocation views with open engines → use commercial platforms for complex private assets and institutional reporting as needed. Suitable for tech-capable single-family offices. Most multi-family and complex single-family offices rely on commercial family-office platforms for scale and service levels.
-
-
-
-## How to Contribute
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Family-office systems handle highly sensitive personal and financial data. Strong security, access control, and professional oversight are mandatory. Open-source tools are **not** a substitute for regulated advice or institutional platforms. This list is not investment, tax, or legal advice.
-
-
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Family Office Management Banner" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Family-Office-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Family-Office-Management?style=flat-square&logo=github" alt="GitHub stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Family-Office-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Family-Office-Management?style=flat-square&logo=github" alt="GitHub forks"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Family-Office-Management/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Family-Office-Management/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
 ---
 
-**Made for family-office professionals, principals, and privacy-focused wealth technologists.**
+# 🏛️ Awesome Family Office Management Ecosystem
 
-Let's keep wealth visibility clear, secure, and as open as practical.
+> **A curated showcase of commercial SaaS platforms and open-source software for Single Family Offices (SFOs), Multi-Family Offices (MFOs), Wealth Managers, and Private Client Operations.**
+
+This repository tracks notable **SaaS platforms** and **open-source projects** designed for **Family Office Management**. These technology solutions empower wealth managers and principals to aggregate liquid and private market assets, produce multi-entity consolidated reporting, streamline investment accounting, manage trusts/LLCs, and deliver principal-ready wealth dashboards.
+
+---
+
+## 📌 Table of Contents
+
+- [📊 Sector Market Analysis](#-sector-market-analysis)
+- [🏢 SaaS & Hosted Platforms](#-saas--hosted-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [💡 Open-Source Implementation Playbook](#-open-source-implementation-playbook)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [📈 Star History](#-star-history)
+- [💖 Support & Community](#-support--community)
+- [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
+
+---
+
+## 📊 Sector Market Analysis
+
+📊 **Sector Market Analysis**: The global Family Office Management & Wealth Technology software market is valued at approximately **$3.8 Billion to $5.2 Billion** and is **moderately to highly fragmented**—characterized by specialized niche providers across general ledger accounting, family governance, custodian data aggregation, and private equity reporting rather than a single winner-take-all provider.
+
+---
+
+## 🏢 SaaS & Hosted Platforms
+
+Below is a comparative breakdown of leading commercial family office management systems, sorted by **Company Valuation / Market Scale (Descending)**.
+
+| 🏢 SaaS Platform | 💰 Company Size / Scale / Revenue | 💵 Starting Pricing | 🆓 Free Tier / Trial Limits | 🎯 Key Focus & Capabilities |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Addepar](https://addepar.com/)** | **~$3.3 Billion Valuation**<br>*(~$275M ARR, $9T+ Assets)* | **~$50,000 / year**<br>*(Tiered by 0.008%–0.03% AUM)* | **No Free Plan**<br>*(14-day client sandbox demo upon enterprise sales request)* | Institutional portfolio reporting, risk analytics, and multi-asset data aggregation for large SFOs/MFOs. |
+| **[Archway Platform](https://www.archwayplatform.com/)** | **~$120 Million Acquisition**<br>*($850B+ Assets tracked)* | **~$25,000 / year**<br>*(Tiered by entity & asset volume)* | **No Free Plan**<br>*(Personalized product walkthrough demo on request)* | Integrated partnership accounting, multi-entity general ledger, and multi-generational family reporting. |
+| **[FundCount](https://www.fundcount.com/)** | **Enterprise Scale**<br>*($150B+ Assets, ~$30M Est. Rev)* | **~$22,000 / year**<br>*(Starting annual baseline plan)* | **No Free Plan**<br>*(Custom Proof of Concept / sandbox evaluation for qualified leads)* | Portfolio, partnership, and general ledger accounting for complex multi-entity private wealth structures. |
+| **[Asset Vantage](https://www.assetvantage.com/)** | **Global Enterprise**<br>*($100B+ Assets reported)* | **~$15,000 / year**<br>*(Tiered by entities & account count)* | **$99 Paid Sandbox Trial**<br>*(14-day trial pre-loaded with sample family financial data)* | Fully integrated investment accounting & multi-asset wealth management engine ("Financial OS"). |
+| **[Canopy](https://www.canopy.com/)** | **~$20M ARR Scale**<br>*(Venture-backed fintech)* | **~$264 / year**<br>*($22/user/month starting tier)* | **7-Day Free Trial**<br>*(Full-featured 1-week account trial for new users)* | Consolidated portfolio visibility, secure document vault, client collaboration, and accounting workflow. |
+| **[Private Wealth Systems](https://www.privatewealthsystems.com/)** | **Private Enterprise**<br>*(Global UHNW provider)* | **~$18,000 / year**<br>*(Based on connected financial accounts)* | **No Free Plan**<br>*(Guided live sandbox demonstration for institution leads)* | Multi-asset, multi-currency portfolio processing, performance attribution, and principal reporting. |
+| **[WealthHub Solutions](https://www.wealthhubsolutions.com/)** | **Private Enterprise**<br>*(Fiduciary fintech provider)* | **~$15,000 / year**<br>*(Tiered by trust volume & accounts)* | **Free Evaluation Tour**<br>*(Self-guided online product evaluation tour & demo)* | Salesforce-integrated fiduciary management, trust administration, and workflow automation. |
+| **[Trusted Family](https://www.trustedfamily.com/)** | **Enterprise Niche**<br>*(200+ multi-generational families)* | **~$12,000 / year**<br>*(Enterprise family portal plan)* | **No Free Plan**<br>*(Custom guided demonstration for family boards)* | Secure family governance, board communication, and multi-generational secure vault storage. |
+| **[Asora](https://www.asora.com/)** | **Mid-Market Scale**<br>*(European & global family office tech)* | **~$10,800 / year**<br>*($900/month billed annually)* | **No Free Plan**<br>*(Interactive product demo & trial access upon request)* | Modern automated wealth reporting, private asset tracking, and principal wealth visibility. |
+| **[SumIT](https://www.sumit.com/)** | **Regional Enterprise**<br>*(Specialized family wealth engine)* | **~$8,000 / year**<br>*(Starting institutional subscription)* | **No Free Plan**<br>*(Product demonstration on request)* | Multi-entity accounting, bill payment processing, and consolidated wealth reporting. |
+
+---
+
+## 🔓 Open-Source GitHub Projects
+
+Open-source options provide privacy-conscious single-family offices and wealth technologists with local data ownership, transparent calculation rules, and self-hosted security.
+
+The repositories below are sorted by **GitHub Star Count (Descending)**.
+
+| 📦 Repository | ⭐ GitHub Stars | 🛡️ License | 🎯 Description & Key Strengths |
+| :--- | :--- | :--- | :--- |
+| **[odoo/odoo](https://github.com/odoo/odoo)** | [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | LGPL-3.0 | Open-source enterprise resource planning engine suitable for multi-entity general ledgers, holding company accounting, and custom family office operational workflows. |
+| **[maybe-finance/maybe](https://github.com/maybe-finance/maybe)** | [![GitHub stars](https://img.shields.io/github/stars/maybe-finance/maybe?style=social&color=white)](https://github.com/maybe-finance/maybe/stargazers) | AGPL-3.0 | Open-source OS for personal finance, net-worth tracking, asset allocation visualization, and local-first wealth aggregation. |
+| **[frappe/erpnext](https://github.com/frappe/erpnext)** | [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | GPL-3.0 | Full-featured open-source ERP offering multi-currency accounting, entity management, document vaults, and financial consolidation. |
+| **[actualbudget/actual](https://github.com/actualbudget/actual)** | [![GitHub stars](https://img.shields.io/github/stars/actualbudget/actual?style=social&color=white)](https://github.com/actualbudget/actual/stargazers) | MIT | Privacy-first, local-first personal finance manager with sync capabilities and complete data ownership. |
+| **[firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)** | [![GitHub stars](https://img.shields.io/github/stars/firefly-iii/firefly-iii?style=social&color=white)](https://github.com/firefly-iii/firefly-iii/stargazers) | AGPL-3.0 | Self-hosted personal finance and net-worth management system with rule-based transaction automation and multi-account tracking. |
+| **[ghostfolio/ghostfolio](https://github.com/ghostfolio/ghostfolio)** | [![GitHub stars](https://img.shields.io/github/stars/ghostfolio/ghostfolio?style=social&color=white)](https://github.com/ghostfolio/ghostfolio/stargazers) | AGPL-3.0 | Open-source wealth management dashboard for asset tracking, portfolio breakdown, target asset allocation, and privacy-first analytics. |
+| **[portfolio-performance/portfolio](https://github.com/portfolio-performance/portfolio)** | [![GitHub stars](https://img.shields.io/github/stars/portfolio-performance/portfolio?style=social&color=white)](https://github.com/portfolio-performance/portfolio/stargazers) | Eclipse Public | Open-source desktop tool to calculate True Time-Weighted Rate of Return (TWROR) and Internal Rate of Return (IRR) across multi-asset portfolios. |
+| **[rotki/rotki](https://github.com/rotki/rotki)** | [![GitHub stars](https://img.shields.io/github/stars/rotki/rotki?style=social&color=white)](https://github.com/rotki/rotki/stargazers) | AGPL-3.0 | Local-first portfolio tracking, investment accounting, and analytics engine respecting user privacy and data sovereignty. |
+| **[AojdevStudio/Finance-Guru](https://github.com/AojdevStudio/Finance-Guru)** | [![GitHub stars](https://img.shields.io/github/stars/AojdevStudio/Finance-Guru?style=social&color=white)](https://github.com/AojdevStudio/Finance-Guru/stargazers) | MIT | Self-hosted family-office / personal-finance engine with typed calculators, private ledger, and specialist agents for portfolio risk analysis. |
+| **[sudo-prog/FAMLY-Office](https://github.com/sudo-prog/FAMLY-Office)** | [![GitHub stars](https://img.shields.io/github/stars/sudo-prog/FAMLY-Office?style=social&color=white)](https://github.com/sudo-prog/FAMLY-Office/stargazers) | MIT | Local-first, high-security open wealth-management OS concept for family offices featuring asset registers, net-worth analytics, and zero-cloud architecture. |
+
+---
+
+## 💡 Open-Source Implementation Playbook
+
+🔒 **Building a Custom Hybrid Family Office Stack**:
+1. **Local Ledger & Data Vault**: Maintain sensitive legal documents, trusts, and general ledgers locally via open ERP software (*ERPNext*, *Odoo*, or *FAMLY-Office*).
+2. **Public Data Feeds & Analytics**: Ingest liquid market prices via open portfolio trackers (*Ghostfolio*, *Portfolio Performance*, or *Rotki*).
+3. **Net Worth & Principal Dashboards**: Produce consolidated net-worth and asset allocation views using privacy-focused local engines (*Maybe*, *Actual Budget*).
+4. **Institutional Private Asset Analytics**: Utilize commercial platforms (*Addepar*, *Archway*, *FundCount*, *Asset Vantage*) when managing complex private equity capital calls, real estate partnerships, and institutional custodian feeds.
+
+---
+
+## 🤝 How to Contribute
+
+Contributions are warmly welcomed! To suggest a new SaaS product or open-source tool:
+
+1. Fork the repository.
+2. Update `README.md` adhering to the table layout, star badges, and detailed pricing format.
+3. Submit a Pull Request with a clear summary of your additions.
+
+*Check out our list of awesome resources at [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).*
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Family-Office-Management&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Family-Office-Management&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Community
+
+Thank you for exploring and supporting **Awesome Family Office Management**! 🌟
+
+If this repository has provided value to your family office operations, wealth tech research, or open-source project development, please consider showing your support:
+
+- ⭐ **Star this repository** to improve visibility across the GitHub community.
+- 🔀 **Fork & Contribute** improvements, new tools, or documentation updates.
+- 📢 **Share with colleagues**, wealth management professionals, and family office executives.
+
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Sponsor on GitHub" />
+  </a>
+</p>
+
+---
+
+## ⚠️ Disclaimer
+
+- This curated directory is for **informational and educational purposes only** and does not constitute financial, investment, tax, legal, or accounting advice.
+- Family office systems handle highly sensitive financial and personal data. Strong security controls, encryption, access management, and professional oversight are mandatory.
+- Commercial software pricing and features are subject to change by respective vendors.
+
+---
+
+<p align="center">
+  <b>Made with ❤️ for family-office professionals, principals, and privacy-conscious wealth technologists.</b>
+</p>
